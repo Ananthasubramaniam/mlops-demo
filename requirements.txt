@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+mlflow
+matplotlib
+streamlit
+requests
